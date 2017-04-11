@@ -1,0 +1,6 @@
+C:\Users\Farnaz\Documents\Visual Studio 2013\Projects\ldtv7\ldtv7\bin\ldtv7.dll.config
+C:\Users\Farnaz\Documents\Visual Studio 2013\Projects\ldtv7\ldtv7\bin\ldtv7.dll
+C:\Users\Farnaz\Documents\Visual Studio 2013\Projects\ldtv7\ldtv7\bin\ldtv7.pdb
+C:\Users\Farnaz\Documents\Visual Studio 2013\Projects\ldtv7\ldtv7\obj\Debug\ldtv7.csprojResolveAssemblyReference.cache
+C:\Users\Farnaz\Documents\Visual Studio 2013\Projects\ldtv7\ldtv7\obj\Debug\ldtv7.dll
+C:\Users\Farnaz\Documents\Visual Studio 2013\Projects\ldtv7\ldtv7\obj\Debug\ldtv7.pdb
